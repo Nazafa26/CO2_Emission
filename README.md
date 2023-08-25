@@ -5,4 +5,4 @@ The notebook includes data processing, visualization, and dashboard layout code.
 
 Feel free to explore the notebook and interact with the dashboard. Your feedback and contributions are welcome!
 
-![Image Alt Text]https://github.com/Nazafa26/CO2_Emission/blob/main/C.png
+![Interactive Dashboard]https://github.com/Nazafa26/CO2_Emission/blob/main/C.png
